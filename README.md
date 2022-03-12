@@ -14,8 +14,10 @@ As shown below, it is clear in running this analysis that the stock with the mos
 Where as it did not have the highest return in 2017 it still showed over 100% with an 81.9% return in 2018. 
 In comparison ENPH shows the most promise. A second stock also showed a high positive return value in 2018, 
 but a very low positive return value in 2017. We can deduce that the stock to invest in is ENPH. 
-![VBA Challenge 2017](resources/VBA_Challenge_2017.png)
-![VBA Challenge 2018](resources/VBA_Challenge_2018.png)
+
+![VBA Challenge 2017](Resources/VBA_Challenge_2017.png)
+
+![VBA Challenge 2018](Resources/VBA_Challenge_2018.png)
 
 ## Project Summary
 
